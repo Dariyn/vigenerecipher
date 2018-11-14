@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=decipher
+comment1.params=encryptedword\ keyw
+comment1.target=decipher(java.lang.String,\ java.lang.String)
+comment2.params=encryptedword\ keyw
+comment2.target=java.lang.String\ decrypt(java.lang.String,\ java.lang.String)
+numComments=3
